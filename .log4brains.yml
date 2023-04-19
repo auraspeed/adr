@@ -9,3 +9,5 @@ project:
     - name: package2
       path: ./packages/package2
       adrFolder: ./packages/package2/docs/adr
+  repository:
+    viewFileUriPattern: /blob/main/%path
