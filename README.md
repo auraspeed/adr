@@ -1,3 +1,5 @@
+[![Log4brains ADRs](http://auraspeed.github.io/adr/badge.svg)](http://auraspeed.github.io/adr/)
+
 # Architecture Decision Records
 
 ADRs are automatically published to our Log4brains architecture knowledge base:
