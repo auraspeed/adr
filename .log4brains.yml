@@ -10,4 +10,6 @@ project:
       path: ./packages/package2
       adrFolder: ./packages/package2/docs/adr
   repository:
+    url: https://github.com/auraspeed/adr # Absolute URL of your repository
+    provider: github # Supported providers: github, gitlab, bitbucket. Use `generic` if yours is not supported
     viewFileUriPattern: /blob/main/%path
